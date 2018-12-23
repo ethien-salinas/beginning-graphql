@@ -1,0 +1,19 @@
+{
+  "name": "beginning-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL minimal project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "graphql",
+    "apollo-server-express"
+  ],
+  "author": "Ethien Salinas",
+  "dependencies": {
+    "apollo-server-express": "^2.3.1",
+    "express": "^4.16.4",
+    "graphql": "^14.0.2"
+  }
+}
